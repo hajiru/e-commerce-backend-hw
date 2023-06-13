@@ -20,11 +20,14 @@
 
 To install necessary dependencies, run the following command inside your terminal
 
-npm i
+Step One: npm i
+Step Two: mysql -u 'username' -p
+Step Three: source schema.sql
+Step Four: node seeds/index.js
 
 ## Usage
 
-N/A
+How to use this application <a href="https://drive.google.com/file/d/104AqKwfLS1SbkBgn0ercpUZ9eQiuKpnZ/view">here!</a>
 
 ## License
 
